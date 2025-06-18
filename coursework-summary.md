@@ -1,3 +1,4 @@
+## 🎓 Program Overview
 This repository summarizes core coursework completed as part of the [Bachelor of Science in Cybersecurity – Cyber Operations](https://catalog.utica.edu/preview_program.php?catoid=65&poid=6557) program at [Utica University](https://www.utica.edu). The program combines hands-on technical training with theoretical foundations across areas such as digital forensics, malware analysis, risk management, OSINT, and AI in cybersecurity. Utica University is recognized as a DHS/NSA National Center of Academic Excellence in Cyber Defense and Digital Forensics.
 
 📘 Course Highlights
